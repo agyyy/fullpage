@@ -1,4 +1,6 @@
 # fullpage
-fullpage.jsを試してみたものです。
-githubで内容変更。
+
+fullpage.js を試してみたものです。
+github で内容変更。
 さらに変更！
+practice で変更しました。

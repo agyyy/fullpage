@@ -8,4 +8,4 @@ hello!!!!
 goodbye.
 練習。
 
-vscodeでpull
+vscode で pull

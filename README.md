@@ -9,3 +9,5 @@ goodbye.
 練習。
 
 vscode で pull
+
+vscode で push

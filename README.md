@@ -6,3 +6,4 @@ github で内容変更。
 practice で変更しました。
 hello!!!!
 goodbye.
+練習。

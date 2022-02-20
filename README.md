@@ -7,3 +7,5 @@ practice で変更しました。
 hello!!!!
 goodbye.
 練習。
+
+vscodeでpull
